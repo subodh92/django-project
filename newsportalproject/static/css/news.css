@@ -1,0 +1,16 @@
+.jumbotron{
+  background:blue ;
+  color:white;
+}
+body{
+  background: url(https://images.unsplash.com/uploads/14116941824817ba1f28e/78c8dff1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b67a6a81e6fd1f699c2bb5bfeb37074e&auto=format&fit=crop&w=500&q=60);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ul{
+  direction: ltr;
+  color:white;
+}
+h1{
+  color: red;
+}
